@@ -21,3 +21,15 @@ body {
     flex-direction: column;
 
 }
+
+h1{
+    margin: 5px;
+}
+
+.intro-section > p{
+    margin: 5px;
+}
+
+nav > button{
+    margin: 5px;
+}
